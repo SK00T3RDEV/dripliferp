@@ -2,8 +2,8 @@
   "server-ip": "play.driplife.net",
   "server-version": "1.16.5",
   "mods": {
-    "driplifecustommod": {
-      "download": "https://directdownload.jar"
+    "crafting_dead_core": {
+      "download": "https://cdn.discordapp.com/attachments/1139554525229887509/1140652465730109470/crafting-dead-core-1.16.5-1.7.5-alpha.jar"
     },
     "essentials": {
       "download": "https://directdownload.jar"
