@@ -1,0 +1,15 @@
+{
+  "server-ip": "play.driplife.net",
+  "server-version": "1.16.5",
+  "mods": {
+    "driplifecustommod": {
+      "download": "https://directdownload.jar"
+    },
+    "essentials": {
+      "download": "https://directdownload.jar"
+    },
+    "coreprotect": {
+      "download": "https://directdownload.jar"
+    }
+  }
+}
